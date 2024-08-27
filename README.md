@@ -6,7 +6,7 @@
 <div align="center">
         <h2>Short Biography</h2>
         <p>
-            <code>S@VV3R</code> <code>N1GHT</code> <code>Python Developer</code>    
+            <code>NOMUKC</code> <code>N1GHT</code> <code>VUE Developer</code>    
         </p>
         <p>
             I am a Self-Trained Full-Stack Developer from Russia, with 6 years of coding experience.
@@ -40,6 +40,6 @@
 <div align="center">
         <h2>My stats</h2>
         <p>
-            <p align="center"><img src="https://myreadme.vercel.app/api/embed/l033er?panels=userstatistics,toplanguages,commitgraph,toprepositories"/></p>
+            <p align="center"><img src="https://myreadme.vercel.app/api/embed/noMukc?panels=userstatistics,toplanguages,commitgraph,toprepositories"/></p>
         </p>
 </div>
